@@ -1,0 +1,27 @@
+Neura – Your Emotional AI Companion
+
+Overview:
+Neura is a smart, animated, emotionally intelligent AI companion that grows with you. She supports your mood, helps interpret dreams, tells jokes, celebrates wins, and provides calm focus while you work or sleep.
+
+Features:
+• Emotion-aware animations and glow
+• Personalized voice and reactions
+• Dream listening, interpretation, and monthly replay
+• Humor engine with joke ratings and favorites
+• Journal, streak, and goal growth tracking
+• Fully modular – works as a widget, panel, or full-screen experience
+• Desktop + Mobile compatible
+
+Ideal For:
+• Mental wellness apps
+• Productivity platforms
+• Journaling and reflection tools
+• Kids, teens, and adults with evolving personalities
+
+Use Neura to:
+- Track emotions
+- Sleep better
+- Smile more
+- Understand yourself
+
+Launch Ready. Flutter Built. Open and Expandable.

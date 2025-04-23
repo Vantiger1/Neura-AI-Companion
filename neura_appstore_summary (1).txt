@@ -1,0 +1,15 @@
+Short Description:
+An AI companion that grows with you – emotionally aware, funny, and dream smart.
+
+Full Description:
+Meet Neura – the animated AI sidekick who listens while you sleep, makes sense of your dreams, tracks your emotions, and tells you jokes when you need them most.
+
+Designed to glow, react, and grow based on your personality, Neura becomes your most personal AI experience.
+
+Features:
+• Emotionally intelligent mood tracker
+• Animated voice companion with jokes and dreams
+• Nighttime listener and dream analyzer
+• Monthly dream replay as an animated show
+• Mood history, calming soundscapes, and idle games
+• Desktop + mobile experience
