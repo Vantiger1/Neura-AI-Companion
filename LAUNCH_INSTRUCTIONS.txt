@@ -1,0 +1,4 @@
+1. Install Flutter
+2. Run main.dart
+3. Connect Firebase
+4. Deploy
