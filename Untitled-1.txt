@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "dart",
+      "request": "launch",
+      "name": "Launch Flutter App",
+      "program": "${workspaceFolder}/NeuraCompanion_HyperSync_ALL_FINAL_COMPLETE/project/${input:mainDartFile}"
+    }
+  ],
+  "inputs": [
+    {
+      "type": "promptString",
+      "id": "mainDartFile",
+      "description": "Enter the path to your main Dart file (e.g., main.dart)"
+    }
+  ]
+}
