@@ -48,7 +48,7 @@ class BiometricFeedback {
           .getData(start, end, [HealthDataType.HEART_RATE_VARIABILITY])
           .timeout(Duration(seconds: 5), onTimeout: () => []);
       if (data.isEmpty) return null;
-      final values = data.map((e) => e.value as double).toList();
+      final values = data.map((e) => (e.value as num).toDouble()).toList();
       final avg = values.reduce((a, b) => a + b) / values.length;
       developer.log('Computed HRV average: \$avg', name: 'BiometricFeedback');
       return avg;
