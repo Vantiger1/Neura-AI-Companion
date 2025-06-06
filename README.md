@@ -1,13 +1,17 @@
-# Neura Companion
+# OnTheGoLogging
 
-This is the official source code for Neura Companion Phase 5: HyperSync AI.
+## Installation
+Add to root `pubspec.yaml`:
+```yaml
+on_the_go_logging:
+  path: ./packages/on_the_go_logging
+``` 
 
-## Features
-- Global Mood Map
-- Dream Portal Launcher
-- Weekly Reflection Narrator
-- Dual avatars: Neura and Neuro
-- Firebase Hosting + GitHub integration
-## License
-Neura Companion is licensed under the [MIT License](LICENSE).
-Copyright © 2025 Steven VanTiger.
+## Usage
+```dart
+import 'package:on_the_go_logging/on_the_go_logging.dart';
+
+await OnTheGoLogging.init();
+// Example:
+// TODO: use OnTheGoLogging features
+```
