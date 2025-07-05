@@ -10,10 +10,17 @@ class OnTheGoLogging {
   /// Start voice logging
   static Future<String> recordAndTranscribe() async {
     if (!await _speech.initialize()) return '';
-    await _speech.listen();
+    String recognizedWords = '';
+    await _speech.listen(
+      onResult: (stt.SpeechRecognitionResult result) {
+        recognizedWords = result.recognizedWords;
+      },
+      listenFor: Duration(seconds: 5),
+      partialResults: true,
+    );
     await Future.delayed(Duration(seconds: 5));
     _speech.stop();
-    return _speech.lastRecognizedWords;
+    return recognizedWords;
   }
 
   /// Play back text
