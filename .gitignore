@@ -1,0 +1,12 @@
+# Flutter & Dart
+**/build/
+**/ios/Flutter/Flutter.framework
+**/.dart_tool/
+**/.pub/
+**/pubspec.lock
+**/android/.gradle/
+**/android/app/*.keystore
+**/.idea/
+**/.vscode/
+**/scripts/
+**/.github/
