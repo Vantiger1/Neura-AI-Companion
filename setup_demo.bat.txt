@@ -1,0 +1,18 @@
+:: setup_demo.bat
+@echo off
+REM Create directory structure
+if not exist "models" mkdir models
+if not exist "assets" mkdir assets
+
+REM Move or copy your GLB models into models\
+move penthouse_dashboard.glb models\
+move neura.glb models\
+move robot_pet.glb models\
+move drone.glb models\
+
+REM Move or copy audio into assets\
+move background_music.mp3 assets\
+
+REM Start a local HTTP server on port 8000
+echo Starting local server on port 8000...
+python -m http.server 8000

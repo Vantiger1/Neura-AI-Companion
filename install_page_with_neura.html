@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Neura Companion Installer</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.4/lottie.min.js"></script>
+  <style>
+    body { margin:0; font-family: Arial, sans-serif; background: #0a0a0f; overflow: hidden; }
+    #install-container { position: relative; width: 100%; height: 100vh; }
+    #steps { position: absolute; top: 20px; left: 20px; max-width: 40%; color: #e0e0e0; }
+    .step { background: rgba(20,20,30,0.8); color: #fff; padding: 15px; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.5); transition: background 0.3s; cursor: pointer; }
+    .step.active { background: #3b3b5a; border-left: 4px solid #00eaff; }
+
+    /* Lottie container styling */
+    #neura-animation {
+      position: absolute;
+      bottom: 5%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 300px;
+      height: 400px;
+      pointer-events: none;
+    }
+
+    #speech {
+      position: absolute;
+      bottom: 55%;
+      left: 20px;
+      max-width: 30%;
+      padding: 14px;
+      background: rgba(30,30,40,0.95);
+      color: #00eaff;
+      border-radius: 10px;
+      font-weight: 600;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div id="install-container">
+    <div id="steps">
+      <div class="step" data-step="1">1. Download the installer</div>
+      <div class="step" data-step="2">2. Run the setup file</div>
+      <div class="step" data-step="3">3. Accept Terms & Conditions</div>
+      <div class="step" data-step="4">4. Choose installation folder</div>
+      <div class="step" data-step="5">5. Finish and launch Neura Companion</div>
+    </div>
+    <!-- Lottie animation container -->
+    <div id="neura-animation"></div>
+    <div id="speech">Initializing installer protocol...</div>
+  </div>
+  <script>
+    /**
+     * Initialize Lottie with multiple named segments for realistic behavior:
+     * - idle: breathing & blinking (frames 0–59)
+     * - wave: greeting gesture (60–119)
+     * - lookaround: head tilt & eyes (120–179)
+     * - talk: subtle mouth movement (180–239)
+     * Ensure your Lottie JSON defines these frame ranges.
+     */
+    const neuraAnim = lottie.loadAnimation({
+      container: document.getElementById('neura-animation'),
+      renderer: 'svg',
+      loop: false,
+      autoplay: false,
+      path: 'neura_animation.json'
+    });
+
+    // Define segments by label or frames
+    const SEGMENTS = {
+      idle: [0, 59],
+      wave: [60, 119],
+      lookaround: [120, 179],
+      talk: [180, 239]
+    };
+
+    // Play idle on load
+    neuraAnim.addEventListener('DOMLoaded', () => {
+      neuraAnim.playSegments(SEGMENTS.idle, true);
+    });
+
+    // Helper: play named segment, then return to idle
+    function playSegment(name) {
+      neuraAnim.playSegments(SEGMENTS[name], true);
+      neuraAnim.addEventListener('complete', () => {
+        neuraAnim.playSegments(SEGMENTS.idle, true);
+      }, { once: true });
+    }
+
+    // Step messages and associated animations
+    const messages = {
+      1: { text: 'Step 1: Download the installer from our secure server.', action: 'lookaround' },
+      2: { text: 'Step 2: Execute the downloaded file to begin setup.', action: 'talk' },
+      3: { text: 'Step 3: Review and accept the license agreement.', action: 'talk' },
+      4: { text: 'Step 4: Select a destination folder for installation.', action: 'wave' },
+      5: { text: 'Step 5: Complete setup and launch Neura Companion.', action: 'wave' }
+    };
+
+    const steps = document.querySelectorAll('.step');
+    const speech = document.getElementById('speech');
+
+    steps.forEach(step => {
+      step.addEventListener('click', () => {
+        // Highlight UI
+        steps.forEach(s => s.classList.remove('active'));
+        step.classList.add('active');
+        // Show speech
+        const id = step.getAttribute('data-step');
+        const { text, action } = messages[id];
+        speech.textContent = text;
+        speech.style.display = 'block';
+        // Trigger animation segment
+        playSegment(action);
+        // Hide speech after animation
+        neuraAnim.addEventListener('complete', () => {
+          setTimeout(() => { speech.style.display = 'none'; }, 500);
+        }, { once: true });
+      });
+    });
+
+  </script>
+</body>
+</html>
