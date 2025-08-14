@@ -1,0 +1,1076 @@
+Neura Companion – Quick Diagnostics
+Generated: 2025-08-12T04:51:41
+
+Top-Level Structure (depth<=2):
+--------------------------------
+Neura-Companion-ver1.0.0-56162d14-main/
+  # Roadmap.txt
+  .analysis_options.yaml
+  .env
+  .env.example
+  .git.zip
+  .gitattributes
+  .gitattributes.~
+  .github/
+    workflows/
+  .gitignore
+  .gitignore.~
+  .gradle/
+    8.12/
+    8.14.2/
+    buildOutputCleanup/
+    config.properties
+    file-system.probe
+    vcs-1/
+  .idea (2).zip
+  .idea.zip
+  .metadata
+  .project.json
+  .run/
+    Unnamed.run.xml
+  .venv.zip
+  .vscode.zip
+  .what-is-this.md
+  .zip
+  2.49.0.adoc
+  20250614_2118_Elegant Robot Animation_simple_compose_01jxrp3e23fc0v5xynb2thxa46.mp4
+  20250621_0058_Glowing Circuitry Anatomy_remix_01jy8gyq1wfdcrwp1ny9g7jn4k.png
+  20250621_0731_Neuro AI Robot_remix_01jy97f8fhfgj9beqed29xw1q7 (1).png
+  20250621_0731_Neuro AI Robot_remix_01jy97f8fhfgj9beqed29xw1q7.png
+  20250621_0744_Realistic Female Android_remix_01jy986txneymvb0dvqkkh7gxr.png
+  20250803_0215_Assembling Male Robot_remix_01k1qcg120fw796x3mzaswjk9h.png
+  20250803_0215_Assembling Male Robot_remix_01k1qcj7vrecwbc3mn24d7zet4.png
+  20250803_0309_Nine Emotional Expressions_remix_01k1qfj71rfgcvn2cvgw6h5dnp.png
+  20250803_0309_Nine Emotional Expressions_remix_01k1qfmpjbfnv9d56hz24qvjg0.png
+  @echo off.txt
+  A_digital_illustration_features_a_futuristic,_fema.png
+  AnimatedNeuraSource (2) - Copy.zip
+  AnimatedNeuraSource (2).zip
+  AnimatedNeuraSource - Copy.zip
+  AnimatedNeuraSource.zip
+  AppStoreListing.md
+  Architecture.md
+  Assets_Editor_NeuraAutoSetup.cs
+  Available_NeuraCompanion_ZIPs.csv
+  BXKHQHHM9O (1).zip
+  BXKHQHHM9O (2).zip
+  BXKHQHHM9O (3).zip
+  BXKHQHHM9O.zip
+  ChatGPT Image Jul 12, 2025, 07_16_54 AM.png
+  ChatGPT Image Jul 12, 2025, 10_29_24 AM.png
+  ChatGPT Image Jul 12, 2025, 10_37_25 AM.png
+  ChatGPT Image Jul 18, 2025, 01_04_21 PM (1).png
+  ChatGPT Image Jul 18, 2025, 01_04_21 PM.png
+  ChatGPT Image Jul 18, 2025, 01_04_27 PM.png
+  ChatGPT Image Jul 18, 2025, 01_04_48 PM.png
+  ChatGPT Image Jul 18, 2025, 01_04_54 PM.png
+  ChatGPT Image Jul 18, 2025, 01_11_30 PM.png
+  ChatGPT Image Jul 18, 2025, 01_15_19 PM.png
+  ChatGPT Image Jul 18, 2025, 01_18_11 PM.png
+  ChatGPT Image Jul 18, 2025, 01_18_19 PM.png
+  ChatGPT Image Jul 18, 2025, 06_46_23 PM.png
+  ChatGPT Image Jul 18, 2025, 12_40_54 PM.png
+  ChatGPT Image Jul 25, 2025, 01_18_02 AM.png
+  ChatGPT Image Jul 25, 2025, 01_18_11 AM.png
+  ChatGPT Image Jul 25, 2025, 01_20_57 AM.png
+  ChatGPT Image Jul 25, 2025, 01_27_19 AM.png
+  ClientStatements_040225 (1).zip
+  Clinical_Module_NeuraCompanion.zip
+  Customization_Service_data.txt.gz
+  DeveloperGuide.md
+  Dreamscape_Visualizer_PromoAssets.zip
+  FULL-NEURA-COMPANON.zip
+  Files_Included_in_ZIP.csv
+  Flutter_build.yml
+  GitHubActionsVS.vsix
+  Google Passwords.csv
+  GooglePayBalance.pdf
+  InstallerPackage (1).zip
+  InstallerPackage.zip
+  KotlinProject.zip
+  LAUNCH_INSTRUCTIONS.txt
+  LICENSE
+  Make Neura Companion Kit Copyall.pdf
+  Microsoft Build - Digital.ics
+  Microsoft.Management.Deployment.winmd
+  NEURA-COMPANION 🖥.zip
+  NEURA_FULL_SPARK_BUNDLE.zip
+  Neura Companion ver.1.9.0
+  Neura Full Setup.pdf
+  Neura-AI-Companion
+  Neura-AI-Companion.code-workspace
+  Neura-Companion - Copy.zip
+  Neura-Companion-GitHub-Push-Ready.zip
+  Neura-Companion-Multiverse-GitHub - Copy.zip
+  Neura-Companion-Multiverse-GitHub.zip
+  Neura-Companion-Scripts (1).zip
+  Neura-Companion-Scripts.zip
+  Neura-Companion.zip
+  NeuraAICompanion_Rebuild.zip
+  NeuraChatUI.cs
+  NeuraCompanion (1).zip
+  NeuraCompanion.zip
+  NeuraCompanion_AIRitualCuratorModule.zip
+  NeuraCompanion_AI_MemoryModule.zip
+  NeuraCompanion_AllArchives.zip
+  NeuraCompanion_AllModules_Complete.zip
+  NeuraCompanion_AllSteps.zip
+  NeuraCompanion_AllSteps_Updated.zip
+  NeuraCompanion_All_Files - Copy (2).zip
+  NeuraCompanion_All_Files - Copy - Copy.zip
+  NeuraCompanion_All_Files - Copy.zip
+  NeuraCompanion_All_Files.zip
+  NeuraCompanion_Asset_Angry.zip
+  NeuraCompanion_Asset_Anxious.zip
+  NeuraCompanion_Asset_Calm.zip
+  NeuraCompanion_Asset_Happy.zip
+  NeuraCompanion_Asset_Idle.zip
+  NeuraCompanion_Asset_Sad.zip
+  NeuraCompanion_AvatarAgeSelector.zip
+  NeuraCompanion_AvatarEvolveModule.zip
+  NeuraCompanion_Bundle_20250806_0741 (1).zip
+  NeuraCompanion_Bundle_20250806_0741.zip
+  NeuraCompanion_ClinicalModule_AddOn.zip
+  NeuraCompanion_CompleteIntegration.zip
+  NeuraCompanion_EmotionGraph_Enhanced (1).zip
+  NeuraCompanion_EmotionGraph_Enhanced (2).zip
+  NeuraCompanion_EmotionGraph_Enhanced.zip
+  NeuraCompanion_EmotionGraph_JournalRitual_Full (1).zip
+  NeuraCompanion_EmotionGraph_JournalRitual_Full.zip
+  NeuraCompanion_EmotionGraph_Test.zip
+  NeuraCompanion_EmotionMemoryGraph_Integrated (1).zip
+  NeuraCompanion_EmotionMemoryGraph_Integrated.zip
+  NeuraCompanion_Enhanced_Complete.zip
+  NeuraCompanion_Final (2).zip
+  NeuraCompanion_Final.zip
+  NeuraCompanion_FinalInstaller_WithFaceSync.zip
+  NeuraCompanion_FinalSource_AllMerged.zip
+  NeuraCompanion_Final_FullBuild.zip
+  NeuraCompanion_Final_SafeAI_Release.zip
+  NeuraCompanion_Final_Summary.pdf
+  NeuraCompanion_FirebaseLive - Copy.zip
+  NeuraCompanion_FirebaseLive.zip
+  NeuraCompanion_FullInject.zip
+  NeuraCompanion_FullProject (1).zip
+  NeuraCompanion_FullProject.zip
+  NeuraCompanion_Full_GitHubRelease.zip
+  NeuraCompanion_GitHubPages - Copy.zip
+  NeuraCompanion_GitHubPages.zip
+  NeuraCompanion_GlobalMoodMap.zip
+  NeuraCompanion_GoalCoachModule.zip
+  NeuraCompanion_GradleFix.zip
+  NeuraCompanion_GradleFix_Rebuild.zip
+  NeuraCompanion_Installer_AllModules.zip
+  NeuraCompanion_Installer_Bundle.zip
+  NeuraCompanion_Integrated.zip
+  NeuraCompanion_LifeReportModule.zip
+  NeuraCompanion_LiveBuild_WithDreamAI_MoodStreak.zip
+  NeuraCompanion_Master_EmotionStorage.zip
+  NeuraCompanion_MemoryGraphModule_Rebuilt.zip
+  NeuraCompanion_Module1 (2).zip
+  NeuraCompanion_Module1.zip
+  NeuraCompanion_Module3.zip
+  NeuraCompanion_Module4.zip
+  NeuraCompanion_Module5.zip
+  NeuraCompanion_Module6.zip
+  NeuraCompanion_Module7.zip
+  NeuraCompanion_Module8.zip
+  NeuraCompanion_Module9.zip
+  NeuraCompanion_MoodMusic_WeeklyCheckin.zip
+  NeuraCompanion_MoodSync_CodeOnly (1).zip
+  NeuraCompanion_MoodSync_CodeOnly (2).zip
+  NeuraCompanion_MoodSync_CodeOnly (3).zip
+  NeuraCompanion_MoodSync_CodeOnly.zip
+  NeuraCompanion_MultiPlatform_Bundle.zip
+  NeuraCompanion_Multiverse_Bundle - Copy.zip
+  NeuraCompanion_Multiverse_Bundle.zip
+  NeuraCompanion_MusicPlayer_Complete - Copy.zip
+  NeuraCompanion_MusicPlayer_Complete.zip
+  NeuraCompanion_MusicPlayer_EvolvedNeura - Copy.zip
+  NeuraCompanion_MusicPlayer_EvolvedNeura.zip
+  NeuraCompanion_MusicPlayer_RealFFT - Copy.zip
+  NeuraCompanion_MusicPlayer_RealFFT.zip
+  NeuraCompanion_MusicPlayer_VisualizerPlus - Copy.zip
+  NeuraCompanion_MusicPlayer_VisualizerPlus.zip
+  NeuraCompanion_OnboardingTutorialModule.zip
+  NeuraCompanion_QuestEngineModule.zip
+  NeuraCompanion_ReflectiveMirrorModule.zip
+  NeuraCompanion_RitualCurationModule.zip
+  NeuraCompanion_RitualPortalWorlds.zip
+  NeuraCompanion_SmartHomeModule.zip
+  NeuraCompanion_Step10Complete - Copy.zip
+  NeuraCompanion_Step10Complete.zip
+  NeuraCompanion_Step1Complete (2).zip
+  NeuraCompanion_Step1Complete.zip
+  NeuraCompanion_Step2Complete.zip
+  NeuraCompanion_Step3Complete.zip
+  NeuraCompanion_Step4Complete.zip
+  NeuraCompanion_Step5Complete.zip
+  NeuraCompanion_Step6Complete.zip
+  NeuraCompanion_Step7Complete.zip
+  NeuraCompanion_Step8Complete.zip
+  NeuraCompanion_Step9Complete.zip
+  NeuraCompanion_TestBundle (1).zip
+  NeuraCompanion_TestBundle.zip
+  NeuraCompanion_TherapyCBTModule (1).zip
+  NeuraCompanion_TherapyCBTModule.zip
+  NeuraCompanion_TherapyIntegration (1).zip
+  NeuraCompanion_TherapyIntegration.zip
+  NeuraCompanion_UltimateInstaller_WithDreamAndPersona.zip
+  NeuraCompanion_Unified_MegaBundle - Copy.zip
+  NeuraCompanion_Unified_MegaBundle.zip
+  NeuraCompanion_WebDeploy - Copy.zip
+  NeuraCompanion_WebDeploy.zip
+  NeuraCompanion_Windows_Installer_RoboticFace.zip
+  NeuraCompanion_WiredUI.zip
+  NeuraCompanion_WithMusicPlayer - Copy.zip
+  NeuraCompanion_WithMusicPlayer.zip
+  NeuraCompanion_WithTests.zip
+  NeuraCompanion_WithTests_1.zip
+  NeuraCompanion_WorldFeed_Community.zip
+  NeuraDemoAppProject - Copy.zip
+  NeuraDemoAppProject.zip
+  NeuraErrorRecovery - Copy.zip
+  NeuraErrorRecovery.zip
+  NeuraFaceSyncPackage (1).zip
+  NeuraFaceSyncPackage.zip
+  NeuraFaceSyncPackage_Complete (1).zip
+  NeuraFaceSyncPackage_Complete.zip
+  NeuraHoloVRUpgrade - Copy.zip
+  NeuraHoloVRUpgrade.zip
+  NeuraInstallerAssets.zip
+  NeuraInvestorKit - Copy.zip
+  NeuraInvestorKit.zip
+  NeuraInvestorKit_v2.zip
+  NeuraRealExportsAndInstallerAssets.zip
+  NeuraRoomTransitions.zip
+  NeuraUnityMobile.bat
+  NeuraVR_Unity_Bundle.zip
+  NeuraWebPreview_GitHubPages.zip
+  Neura_AI_Installer_Bundle.zip
+  Neura_AI_Installer_Bundle_Updated.zip
+  Neura_AddOn_Screenshots (1).zip
+  Neura_AddOn_Screenshots.zip
+  Neura_Animation_Folders.bat
+  Neura_App_Distribution_Bundle.zip
+  Neura_App_Icon_Package.zip
+  Neura_App_Icon_Package2.zip
+  Neura_App_Icon_Package_New.zip
+  Neura_App_Icon_v4.zip
+  Neura_App_Mockups.pdf
+  Neura_App_Store_Metadata.zip
+  Neura_BuildScript_Standalone.zip
+  Neura_Build_Deploy_Bundle.zip
+  Neura_Build_Log.txt
+  Neura_Bundled_Launch_Kit.zip
+  Neura_CI_Patch.zip
+  Neura_Companion_3D_Dashboard.zip
+  Neura_Companion_API_LocalServer.zip
+  Neura_Companion_API_LocalServer_v2_with_DB_REBUILT.zip
+  Neura_Companion_API_LocalServer_v3_Phase3.zip
+  Neura_Companion_API_LocalServer_v5_FullFeatures.zip
+  Neura_Companion_API_LocalServer_v6_Master_AIRobot.zip
+  Neura_Companion_AllStubs_Scaffold (1).zip
+  Neura_Companion_AllStubs_Scaffold.zip
+  Neura_Companion_All_In_One_Source_Build.zip
+  Neura_Companion_All_Inclusive_Bundle_v2.zip
+  Neura_Companion_All_Installers - Copy (2).zip
+  Neura_Companion_All_Installers - Copy - Copy.zip
+  Neura_Companion_All_Installers - Copy.zip
+  Neura_Companion_All_Installers.zip
+  Neura_Companion_All_Platforms (1).zip
+  Neura_Companion_All_Platforms.zip
+  Neura_Companion_AnimatedMicrosite (1).zip
+  Neura_Companion_AnimatedMicrosite.zip
+  Neura_Companion_Animated_PitchDeck.pdf
+  Neura_Companion_Animated_Trailer.mp4
+  Neura_Companion_AutoUpdater_And_Dreams.zip
+  Neura_Companion_BuildReady_Source.zip
+  Neura_Companion_Build_With_Trailer_and_MemorySync.zip
+  Neura_Companion_Bundle (1) - Copy - Copy.zip
+  Neura_Companion_Bundle (1) - Copy.zip
+  Neura_Companion_Bundle (1).zip
+  Neura_Companion_Bundle (2) - Copy.zip
+  Neura_Companion_Bundle.zip
+  Neura_Companion_Complete_Brand_Kit (1).zip
+  Neura_Companion_Complete_Brand_Kit.zip
+  Neura_Companion_Complete_Packaged (1).zip
+  Neura_Companion_Complete_Packaged.zip
+  Neura_Companion_Complete_Ready.zip
+  Neura_Companion_Complete_Setup (1).zip
+  Neura_Companion_Complete_Setup.zip
+  Neura_Companion_DeployKit_AllTargets.zip
+  Neura_Companion_Deploy_Kit.zip
+  Neura_Companion_Evolved_Persona.zip
+  Neura_Companion_ExportMood_LoggerToast.zip
+  Neura_Companion_FileCompiler.zip
+  Neura_Companion_FinalDreamBuild.zip
+  Neura_Companion_FinalInstaller_Package.zip
+  Neura_Companion_Final_10_Additions.zip
+  Neura_Companion_Final_Global.zip
+  Neura_Companion_Final_Release_Build.zip
+  Neura_Companion_Final_Release_Bundle.zip
+  Neura_Companion_Flutter_Windows_EXE_BuildReady.zip
+  Neura_Companion_FullExport_AllPlatforms_v1.zip
+  Neura_Companion_Full_Build.zip
+  Neura_Companion_Full_Injected.zip
+  Neura_Companion_Full_Installer_Bundle.zip
+  Neura_Companion_Full_Project_Bundle (1).zip
+  Neura_Companion_Full_Project_Bundle (2).zip
+  Neura_Companion_Full_Project_Bundle.zip
+  Neura_Companion_Fully_Merged.zip
+  Neura_Companion_Global_Deploy_Kit (1).zip
+  Neura_Companion_Global_Deploy_Kit (2).zip
+  Neura_Companion_Global_Deploy_Kit.zip
+  Neura_Companion_Global_Release_Bundle (1).zip
+  Neura_Companion_Global_Release_Bundle.zip
+  Neura_Companion_Legacy_Launch_Drop.zip
+  Neura_Companion_Merged (2).zip
+  Neura_Companion_Microsite_Deployment_Kit.zip
+  Neura_Companion_Microsite_Final_GitHub_Live.zip
+  Neura_Companion_Microsite_Final_WithTrailer.zip
+  Neura_Companion_Microsite_With_Final_Trailer.zip
+  Neura_Companion_MoodContent_Variants.zip
+  Neura_Companion_MoodForecast_TrendLive (1).zip
+  Neura_Companion_MoodForecast_TrendLive.zip
+  Neura_Companion_MoodGraph_ExportPro.zip
+  Neura_Companion_MoodNav_Export_Animated (1).zip
+  Neura_Companion_MoodNav_Export_Animated.zip
+  Neura_Companion_Multiplatform (1).zip
+  Neura_Companion_Multiplatform.zip
+  Neura_Companion_Official_Public_Release.zip
+  Neura_Companion_OneSheet_Pitch.docx
+  Neura_Companion_Phase3_Integrated (1).zip
+  Neura_Companion_Phase3_Integrated.zip
+  Neura_Companion_Setup_With_Animated_AI (1).zip
+  Neura_Companion_Setup_With_Animated_AI.zip
+  Neura_Companion_Starter.zip
+  Neura_Companion_Stub_Scaffold.zip
+  Neura_Companion_SuperBundle - Copy (2).zip
+  Neura_Companion_SuperBundle - Copy - Copy.zip
+  Neura_Companion_SuperBundle - Copy.zip
+  Neura_Companion_SuperBundle.zip
+  Neura_Companion_Trailer_TestKit.zip
+  Neura_Companion_Unified_Bundle.zip
+  Neura_Companion_VR_Compiled_Windows.zip
+  Neura_Companion_VR_WebGL_Deploy.zip
+  Neura_Companion_VisemeTestRig_Assets.zip
+  Neura_Companion_VoiceMoodExportEnhancements (1).zip
+  Neura_Companion_VoiceMoodExportEnhancements.zip
+  Neura_Companion_VoiceReady.zip
+  Neura_Companion_With_Jokes_Complete.zip
+  Neura_CompleteLaunchKit.zip
+  Neura_Complete_AI_Module.zip
+  Neura_Deploy_Ready_PushKit.zip
+  Neura_Deploy_Tools.zip
+  Neura_Dream_Companion_Module.zip
+  Neura_Dream_Mode_Static_Preview (1).mp4
+  Neura_Dream_Mode_Static_Preview.mp4
+  Neura_FinalAssets.zip
+  Neura_Final_All_Code (1).zip
+  Neura_Firebase_Offline_Upgrade.zip
+  Neura_Flutter_Companion_Module (1).zip
+  Neura_Flutter_Companion_Module.zip
+  Neura_Full_Go_Live_Bundle.zip
+  Neura_Full_Human_Movement_Pack.zip
+  Neura_GitHub_Push_Repo_Bundle.zip
+  Neura_GitHub_Release_Package (1).zip
+  Neura_GitHub_Release_Package (2).zip
+  Neura_GitHub_Release_Package.zip
+  Neura_GlobalLaunchKit.zip
+  Neura_Investor_1Pager.pdf
+  Neura_Investor_Brochure.pdf
+  Neura_Investor_Brochure_Bundle (1).zip
+  Neura_Investor_Brochure_Bundle.zip
+  Neura_Investor_Email_Template (1).txt
+  Neura_Investor_Email_Template.txt
+  Neura_Investor_Pitch.pptx
+  Neura_Landing_GitHub_Deploy_Refreshed.zip
+  Neura_LaunchSite_Deploy (1).zip
+  Neura_LaunchSite_Deploy.zip
+  Neura_LaunchSite_Deploy_With_Assets.zip
+  Neura_Launch_Assets.txt
+  Neura_Launch_Email.txt
+  Neura_Launch_Kit.zip
+  Neura_Launch_Kit_FINAL.zip
+  Neura_Launch_Kit_FINAL_ALT.zip
+  Neura_Launch_Kit_FINAL_REBUILT.zip
+  Neura_Launch_Kit_FULL_BUNDLE.zip
+  Neura_Launch_Kit_REAL_FINAL.zip
+  Neura_Legal_Pages.zip
+  Neura_Legal_Protection_Files.zip
+  Neura_Local_Module_Replacement (1).zip
+  Neura_Local_Module_Replacement.zip
+  Neura_Locked_Ownership_Package_VanTigerConstruction.zip
+  Neura_LottieDemo.zip
+  Neura_Lottie_Demo.zip
+  Neura_Master_Inclusion_Report.txt
+  Neura_MegaModule_Injection_v1 (1).zip
+  Neura_MegaModule_Injection_v1.zip
+  Neura_Menu_Showcase.pdf
+  Neura_Missing_Stubs_Bundle.zip
+  Neura_Mood_Reactive_Modules.zip
+  Neura_Motion_Pack.zip
+  Neura_Phase2_Kit.zip
+  Neura_Phase3_AI_Growth.zip
+  Neura_Phase4_MoodNetWorldSync.zip
+  Neura_PlayStore_AIKit (1).zip
+  Neura_PlayStore_AIKit.zip
+  Neura_PlayStore_Assets.zip
+  Neura_PressKit (1).zip
+  Neura_PressKit.zip
+  Neura_PressKit_Emails.zip
+  Neura_Press_Pack.txt
+  Neura_Reactive_Dashboard_FullBundle (1).zip
+  Neura_Reactive_Dashboard_FullBundle - Copy.zip
+  Neura_Reactive_Dashboard_FullBundle.zip
+  Neura_Reactive_Full_WithVoice - Copy.zip
+  Neura_Reactive_Full_WithVoice.zip
+  Neura_Render_Panel (1).pdf
+  Neura_Render_Panel.pdf
+  Neura_Safety_System_Patch.zip
+  Neura_Scaffold_FinalModules.zip
+  Neura_Social_Media_Pack.zip
+  Neura_Store_Listing_Ready.zip
+  Neura_Structure_FullTurbo_Upgrade.zip
+  Neura_Structure_Package.zip
+  Neura_Structure_Pkg_v3.zip
+  Neura_Structure_Pkg_v3_with_emotion_mapper.zip
+  Neura_Structure_Script_New.zip
+  Neura_Trailer_Preview (1).mp4
+  Neura_Trailer_Preview.mp4
+  Neura_Update_Roadmap_Explorer_Pack.zip
+  Neura_Updated_With_NewFeatures - Copy.zip
+  Neura_Updated_With_NewFeatures.zip
+  Neura_VR_Full_Deployment_Kit.zip
+  Neura_VS_Import_Instructions.txt
+  Neura_Visual_QA_Checklist.txt
+  Neuracompanion.bat
+  NeuroCompanion_WindowsInstaller_WithLauncher (1).zip
+  NeuroCompanion_WindowsInstaller_WithLauncher - Copy.zip
+  NeuroCompanion_WindowsInstaller_WithLauncher.zip
+  NeuroShell_Shell - Copy.zip
+  NeuroShell_Shell.zip
+  NeuroShell_WebHost (1) - Copy.zip
+  NeuroShell_WebHost (1).zip
+  NeuroShell_WebHost - Copy.zip
+  NeuroShell_WebHost.zip
+  Neuro_Companion_All.WinMerge
+  Neuro_Companion_All.zip
+  Neuro_Companion_All_1.zip
+  Neuro_Companion_Brochure.pdf
+  Neuro_Companion_Complete - Copy.zip
+  Neuro_Companion_Complete.zip
+  Neuro_Companion_Complete_Rebuild (1) - Copy.zip
+  Neuro_Companion_Complete_Rebuild (1).zip
+  Neuro_Companion_DebugSigned (1).zip
+  Neuro_Companion_Developer_Kit.zip
+  Neuro_Companion_Final (1).zip
+  Neuro_Companion_Full_Merged_With_Azure - Copy.zip
+  Neuro_Companion_Full_Merged_With_Azure.zip
+  Neuro_Companion_InstallSite_Deploy - Copy.zip
+  Neuro_Companion_InstallSite_Deploy.zip
+  Neuro_Companion_PlayStore_Ready - Copy.zip
+  Neuro_Companion_PlayStore_Ready.zip
+  Neuro_Companion_Rebuild_With_Gradle - Copy.zip
+  Neuro_Companion_Rebuild_With_Gradle.zip
+  Neuro_Companion_VoiceAssistants_Complete - Copy.zip
+  Neuro_Companion_VoiceAssistants_Complete.zip
+  OfficeSetup.exe
+  PLAYSTORE_GUIDE.md
+  Path_of_Harmonic_Awakening.docx
+  Path_of_Harmonic_Awakening_Expanded.docx
+  Phase0_release.zip
+  Phase1.zip
+  Phase2_release.zip
+  Phase3_release.zip
+  Phase4_release.zip
+  Phase5_release.zip
+  Phase6_release (1).zip
+  Phase6_release.zip
+  Plugin+Verifier+and+API+Compatibility+Maintenance.ics
+  README.md
+  Resized_20231217_081942.jpeg
+  Run_NeuraCompanion_Installer.bat
+  SECURITY.md
+  SpeedMode.bat
+  TrueTrace_GooglePlayBilling (1).zip
+  ViewPdf.pdf
+  YouTube
+  ai_avatar.png
+  ai_optimizations_addon_v1.zip
+  analysis_options.yaml
+  android/
+    app/
+  android.zip
+  android_apk_scaffold.zip
+  androidx-artifact-mapping.csv
+  androidx-artifact-mapping.zip
+  api key Neura Companion.txt
+  api_reference.md
+  app.zip
+  apply_phase1_security.bat
+  assets.zip
+  audio_analysis.py
+  automate_merge_and_zip_Version3 - Copy.sh
+  automate_merge_and_zip_Version3.sh
+  azure_storage_feature.zip
+  backend.zip
+  build-installers.bat
+  build-neuracompanion.bat
+  build.bat
+  build.gradle.kts
+  build.sh
+  build_checklist.md
+  build_neura_apk (1) - Copy.bat
+  build_neura_apk (1).bat
+  build_neura_apk - Copy.bat
+  build_neura_apk.bat
+  ci_cd.md
+  clinical_module.zip
+  clinical_module_addon_v1.zip
+  clinical_module_and_all_features.zip
+  clinical_module_api_addon.zip
+  clinical_module_v2.zip
+  clinical_module_v3.zip
+  clinical_module_v4.zip
+  clinical_module_v5.zip
+  color pallete types
+  companion_cast_dialogue.zip
+  cucumber-reporting.iml
+  dependency_report.txt
+  deploy_assets.bat
+  deploy_assets.sh
+  deploy_to_github.bat
+  desktop.zip
+  docker-compose.yml
+  download.png
+  dream_journal_entry.zip
+  dream_showroom_archive.zip
+  fda_readiness.md
+  feature_graphic_placeholder.txt
+  feature_modules.zip
+  feature_modules_v3.zip
+  feature_modules_v4.zip
+  federated_learning.py
+  firebase.json
+  firebase.zip
+  firebase_deploy_neura_v2 (1).sh
+  firebase_deploy_scaffold.zip
+  firebase_integration_scaffold.zip
+  firestore.rules
+  flutter run.bat
+  flutter_build_and_run.bat
+  fly.toml
+  footer_with_version.html
+  gather_code.bat
+  gather_code.txt
+  gitworktree-1.0.15_243-signed (1).zip
+  global_mood_sync.zip
+  google-services.json
+  google_action.yaml
+  gradle/
+    wrapper/
+  gradle.properties
+  gradle.zip
+  gradle_build_commands.zip
+  gradlew
+  gradlew.bat
+  image003.emz
+  image005.emz
+  image_analysis.py
+  index.html
+  index.md
+  index.~html
+  inject_local_modules.bat
+  install_neura.bat
+  install_page.html
+  install_page_with_neura (1).html
+  install_page_with_neura.html
+  installation.md
+  iso13485_guidelines.md
+  kotlin_fix.zip
+  launch.json
+  legacy_mode_vault.zip
+  lib/
+    ai_chatbot_module.dart
+    cbt_exercises.dart
+    community_forum.dart
+    config/
+    core/
+    dashboard.dart
+    emergency_assist.dart
+    features/
+    gamification_rewards.dart
+    main.dart
+    meditation_module.dart
+    models/
+    screens/
+    self_assessment_tracker.dart
+    services/
+    sleep_tracker.dart
+    src/
+    utils/
+    wearable_health_module.dart
+    widgets/
+  lib.zip
+  lime_explainer.py
+  local.properties
+  localization_scaffold.zip
+  lottie_placeholders.zip
+  media_placeholders.zip
+  merge_dart.bat
+  merge_neura_batch.cmd
+  merge_to_main.zip
+  model_tuner.py
+  monetization_addon_v1.zip
+  mood_forecast_ai.zip
+  neura companion merged
+  neura-api-complete (1) - Copy.zip
+  neura-api-complete (1).zip
+  neura-api-complete (2).zip
+  neura-api-complete (3).zip
+  neura-api-complete.zip
+  neura-api-deploy.zip
+  neura-api-hmac (1).zip
+  neura-api-hmac.zip
+  neura-api-latest (1).zip
+  neura-api-latest.zip
+  neura-api-phase10 - Copy.zip
+  neura-api-phase10.zip
+  neura-api-phase11.zip
+  neura-api-phase13.zip
+  neura-api-phase15-tests.zip
+  neura-api-phase15.zip
+  neura-api-phase16.zip
+  neura-api-phase2.zip
+  neura-api-phase3.zip
+  neura-api-phase4 - Copy.zip
+  neura-api-phase4.zip
+  neura-api-phase5 - Copy.zip
+  neura-api-phase5.zip
+  neura-api-phase6 - Copy.zip
+  neura-api-phase6-enhanced - Copy.zip
+  neura-api-phase6-enhanced.zip
+  neura-api-phase6.zip
+  neura-api-phase8 - Copy.zip
+  neura-api-phase8.zip
+  neura-api-phase9 - Copy.zip
+  neura-api-phase9.zip
+  neura-api-v2 (1).zip
+  neura-api-v2.zip
+  neura-api-v3-complete.zip
+  neura-api-v3.zip
+  neura-api-v4-observability.zip
+  neura-api-v4.zip
+  neura-api-v5.zip
+  neura-api-with-resources.zip
+  neura-api.zip
+  neura-companion-cot-patch-v3 - Copy.zip
+  neura-companion-cot-patch-v3.zip
+  neura-docs-site - Copy.zip
+  neura-docs-site.zip
+  neura-phase-devportal.zip
+  neura-phase-runbooks.zip
+  neura-phase12.zip
+  neura-phase4-performance.zip
+  neura-phase5-security-finalization.zip
+  neura-phase6-ui-ux.zip
+  neura-phase7-monitoring.zip
+  neura-phase8-packaging (1).zip
+  neura-phase8-packaging (2).zip
+  neura-phase8-packaging.zip
+  neura-portal.zip
+  neura-real-ai-avatar (1).zip
+  neura-real-ai-avatar.zip
+  neura.png
+  neura_addons_prewired (1).zip
+  neura_addons_prewired.zip
+  neura_all_in_one_bundle.zip
+  neura_all_modules_expansion_enhanced.zip
+  neura_animated_checkin_avatarshift.zip
+  neura_animated_dashboard_phase.zip
+  neura_api.zip
+  neura_api_bundle.zip
+  neura_api_codegen.zip
+  neura_api_codegen_v2.zip
+  neura_api_enterprise_backend (1).zip
+  neura_api_enterprise_backend.zip
+  neura_api_ultimate_bundle.zip
+  neura_api_v10.zip
+  neura_api_v2.zip
+  neura_api_v3.zip
+  neura_api_v4.zip
+  neura_api_v5.zip
+  neura_api_v6.zip
+  neura_api_v7 (1).zip
+  neura_api_v7.zip
+  neura_api_v8.zip
+  neura_api_v9.zip
+  neura_app_icon (1).png
+  neura_app_icon (3).zip
+  neura_app_icon.png
+  neura_appstore_summary (1).txt
+  neura_appstore_summary.txt
+  neura_autonomy_core.zip
+  neura_backend_golden_bundle.zip
+  neura_batch_toolkit.zip
+  neura_batch_toolkit_clean.zip
+  neura_batch_toolkit_clean_Z.zip
+  neura_companion_all_enhancements_bundle (1).zip
+  neura_companion_all_enhancements_bundle.zip
+  neura_companion_all_steps.zip
+  neura_companion_all_tasks_bundle.zip
+  neura_companion_all_versions.zip
+  neura_companion_all_versions_merged.zip
+  neura_companion_brochure_clean.pdf
+  neura_companion_build.zip
+  neura_companion_cleaned_bundle.zip
+  neura_companion_complete.zip
+  neura_companion_complete_universal_bundle.zip
+  neura_companion_complete_universal_bundle_v2.zip
+  neura_companion_final_full_bundle (2).zip
+  neura_companion_full_bundle.zip
+  neura_companion_full_final_app.zip
+  neura_companion_full_live_widget.zip
+  neura_companion_full_source_tree_with_modules (1).zip
+  neura_companion_full_source_tree_with_modules.zip
+  neura_companion_full_upload_bundle (1).zip
+  neura_companion_full_upload_bundle.zip
+  neura_companion_full_voice_emotion.zip
+  neura_companion_github_ready.zip
+  neura_companion_github_ready_with_playstore_firebase (1).zip
+  neura_companion_github_ready_with_playstore_firebase (2).zip
+  neura_companion_github_ready_with_playstore_firebase.zip
+  neura_companion_hardwire (1).zip
+  neura_companion_hardwire.zip
+  neura_companion_ignite_neura.zip
+  neura_companion_main_with_modules_1_to_4.zip
+  neura_companion_main_with_moodboard_export (1).zip
+  neura_companion_main_with_moodboard_export.zip
+  neura_companion_modules.zip
+  neura_companion_mood_graphs_weather.zip
+  neura_companion_personality_mood_build.zip
+  neura_companion_release_bundle.zip
+  neura_companion_voice_patch.zip
+  neura_complete_addons_bundle.zip
+  neura_composite - Copy (2).html
+  neura_config.bat
+  neura_decision_engine (1).dart
+  neura_decision_engine.dart
+  neura_dream_test_entries.json
+  neura_emotion_engine.zip
+  neura_emotion_engine_v2.zip
+  neura_engine_ai_mood.zip
+  neura_enhanced_routing_with_voice_and_loader (1).zip
+  neura_enhanced_routing_with_voice_and_loader.zip
+  neura_feature_addon_v1.zip
+  neura_final_structure_map.txt
+  neura_finalization_todo_bundle.zip
+  neura_flutter_admin_integrations_copilot_export.zip
+  neura_flutter_dashboard.zip
+  neura_flutter_embed.zip
+  neura_flutter_final_branding_profile_about_push.zip
+  neura_flutter_golden_bundle.zip
+  neura_flutter_lit.zip
+  neura_flutter_mood_module.zip
+  neura_flutter_org_team_notifications_analytics_landing.zip
+  neura_full_app_bundle_wired.zip
+  neura_fully_wired_navigation_bundle.zip
+  neura_github_push_package (1).zip
+  neura_github_push_package.zip
+  neura_github_readme.txt
+  neura_google_sheets_sync_stub.py
+  neura_guardian_safety_layer.dart
+  neura_happy.png
+  neura_ignite_animation_audio.zip
+  neura_investor_site.zip
+  neura_landing_page (1).html
+  neura_landing_page.html
+  neura_landing_page_bundle.zip
+  neura_landing_page_final.zip
+  neura_launch_page_bundle.zip
+  neura_launch_trailer_stub.txt
+  neura_lottie_bundle_with_annoyed_expression (1).zip
+  neura_lottie_bundle_with_annoyed_expression.zip
+  neura_lottie_bundle_with_confident_expression.zip
+  neura_lottie_bundle_with_hopeful_expression.zip
+  neura_lottie_bundle_with_mind_blown (1).zip
+  neura_lottie_bundle_with_mind_blown.zip
+  neura_lottie_bundle_with_skeptical_expression.zip
+  neura_lottie_bundle_with_smirk_expression.zip
+  neura_lottie_bundle_with_surprised_expression.zip
+  neura_lottie_bundle_with_yawn_sleepy.zip
+  neura_lottie_final_expressions_bundle (1).zip
+  neura_lottie_final_expressions_bundle.zip
+  neura_lottie_full_bundle_with_hug.zip
+  neura_lottie_full_bundle_with_listening (1).zip
+  neura_lottie_full_bundle_with_sad.zip
+  neura_lottie_full_expression_bundle_rebuilt.zip
+  neura_lottie_full_final_bundle.zip
+  neura_lottie_wave_bundle.zip
+  neura_lottie_wave_idle_bundle.zip
+  neura_lottie_wave_idle_peace_bundle.zip
+  neura_lottie_wave_idle_peace_celebrate_bundle (1).zip
+  neura_lottie_wave_idle_peace_celebrate_bundle.zip
+  neura_maker_expansion_build (2).zip
+  neura_maker_expansion_build.zip
+  neura_mega_modules_bundle.zip
+  neura_memory_response_reflection.zip
+  neura_module_store (1).zip
+  neura_module_store.zip
+  neura_modules_1_to_4_bundle.zip
+  neura_mood_reactive_loader_bundle.zip
+  neura_mouth_viseme_sync.zip
+  neura_next_level_expressions.zip
+  neura_onboarding_flow.json
+  neura_onboarding_script.txt
+  neura_optional_addon_v1.zip
+  neura_parent_lock_panel.dart
+  neura_penthouse_FINAL_bundle.zip
+  neura_penthouse_complete_bundle.zip
+  neura_penthouse_world.zip
+  neura_personality_upgrade.zip
+  neura_pitch_slide_text.txt
+  neura_portrait.png
+  neura_prediction_dashboard_and_card.zip
+  neura_privacy_policy.txt
+  neura_promo_kit.zip
+  neura_queued_items_patch.zip
+  neura_routing_with_lottie_voice_loader.zip
+  neura_routing_with_voice_reactions_tts.zip
+  neura_sad.png
+  neura_setup_full.bat
+  neura_site_deploy.zip
+  neura_social_banner_safe.png
+  neura_states.riv
+  neura_store_listing_text.txt
+  neura_store_screenshot_android.png
+  neura_store_screenshot_ios.png
+  neura_trailer_generator (1).zip
+  neura_trailer_generator.zip
+  neura_ultimate_part1.sh
+  neura_ultimate_part2.sh
+  neura_ultimate_part3.sh
+  neura_violation_log_sample.csv
+  neura_violation_log_template.txt
+  neura_violation_logger_stub.dart
+  neura_voice.txt
+  neura_voice_intro (1).txt
+  neura_voice_intro.txt
+  neura_voice_sync_module (1).zip
+  neura_voice_sync_module.zip
+  neura_waitlist_setup.bat
+  neura_wave.png
+  neura_wearables_addon_v1.zip
+  neura_web_preview (1).zip
+  neura_web_preview - Copy (2).zip
+  neura_web_preview - Copy - Copy.zip
+  neura_web_preview - Copy.zip
+  neura_web_preview.zip
+  neura_webchat_bundle.zip
+  neura_webgl_embed (1).zip
+  neura_webgl_embed.zip
+  neura_webgl_github_site_bundle.zip
+  neura_webgl_landing_bundle.zip
+  neura_webgl_landing_bundle_avatar_enhanced_rebuild.zip
+  neura_webgl_landing_bundle_enhanced.zip
+  neura_widget.zip
+  neura_windows_installer.zip
+  neura_with_clinical_module_injected.zip
+  neura_with_companion_cast_expanded.zip
+  neura_with_companion_cast_module_injected (1).zip
+  neura_with_companion_cast_module_injected.zip
+  neura_with_expansion_manager_injected.zip
+  neura_with_expansion_settings_nav.zip
+  neura_with_expansion_toggle_ui.zip
+  neura_with_global_mood_map_module_injected.zip
+  neura_with_legacy_module_injected.zip
+  neura_with_memory_graph_module_injected.zip
+  neura_with_mood_forecast_module_injected.zip
+  neura_with_offline_ritual_module_injected.zip
+  neura_with_reflective_mirror_module_injected (1).zip
+  neura_with_reflective_mirror_module_injected.zip
+  neura_with_response_generator_module_injected.zip
+  neura_with_ritual_curator_module_injected (1).zip
+  neura_with_ritual_curator_module_injected.zip
+  neura_with_ritual_portal_module_injected (1).zip
+  neura_with_ritual_portal_module_injected.zip
+  neura_with_route_table_bundle.zip
+  neura_with_synaptic_growth_module_injected (1).zip
+  neura_with_synaptic_growth_module_injected.zip
+  neura_with_timeline_and_clinical_upgrade.zip
+  neura_with_visual_moodboard_module_injected.zip
+  neura_workflow_github_actions.zip
+  neuracompanionapp.iml
+  neuro Companion - Windows App Conversion Guide.html
+  neuro_companion.zip
+  neuro_companion_all_code (1).zip
+  neuro_companion_desktop.zip
+  neuro_companion_desktop_v2.zip
+  neuro_companion_desktop_v3 (1).zip
+  neuro_companion_desktop_v3 (2).zip
+  neuro_companion_desktop_v3.zip
+  neuro_companion_desktop_v4.zip
+  neuro_companion_final.zip
+  neuro_companion_final_beast - Copy.zip
+  neuro_companion_final_beast.zip
+  neuro_companion_full_complete - Copy.zip
+  neuro_companion_full_complete.zip
+  neuro_companion_install_site.zip
+  neuro_companion_merged (1) - Copy.zip
+  neuro_companion_merged (1).zip
+  neuro_companion_merged - Copy.zip
+  neuro_companion_merged.zip
+  neuro_companion_project - Copy.zip
+  neuro_companion_project.zip
+  neuro_companion_ready - Copy.zip
+  neuro_companion_ready.zip
+  neuro_companion_ready_for_launch - Copy.zip
+  neuro_companion_ready_for_launch.zip
+  neuro_companion_rebuilt_final - Copy.zip
+  neuro_companion_rebuilt_final.zip
+  neuro_companion_rebuilt_full - Copy.zip
+  neuro_companion_rebuilt_full.zip
+  neuro_companion_tests - Copy.zip
+  neuro_companion_tests.zip
+  neuro_companion_with_pubspec - Copy.zip
+  neuro_companion_with_pubspec.zip
+  neuro_device_firmware.c
+  neuro_enhanced_neura_magic - Copy (2).zip
+  neuro_enhanced_neura_magic - Copy - Copy.zip
+  neuro_enhanced_neura_magic - Copy.zip
+  neuro_enhanced_neura_magic.zip
+  neurocompanion_emblems (1) - Copy.zip
+  neurocompanion_emblems (1).zip
+  nsis-3.11-setup (1).exe
+  nsis-3.11-setup.exe
+  offline_ritual_realm.zip
+  package-lock.json
+  package_neura_engine.bat
+  package_neura_engine.cmd
+  package_neura_engine.sh
+  packaging_scripts (1).zip
+  packaging_scripts (2).zip
+  packaging_scripts.zip
+  patch_main_dart_local - Copy.txt
+  patch_main_dart_local.txt
+  patch_pubspec_local.txt
+  patched_error_hardened_modules - Copy.zip
+  patched_error_hardened_modules.zip
+  phase1-security.patch
+  privacy.html
+  pubspec (1) (2).yaml
+  pubspec (4).yaml
+  pubspec (6) - Copy.yaml
+  pubspec (9) - Copy - Copy.yaml
+  pubspec.lock
+  pubspec.yaml
+  qodana.yaml
+  reflective_mirror_mode.zip
+  requirements.txt
+  scaffold_neuracompanion.bat
+  scaffold_neuracompanion_bundle.zip
+  settings.gradle.kts
+  settings.json
+  setup_license.bat
+  setup_neura_android.bat
+  setup_neura_android_studio.bat
+  setup_neura_androidstudio_fixed.bat
+  setup_neura_full_multi_platform.bat
+  setup_neura_hardwire.bat
+  setup_neura_portable.bat
+  setup_neura_portable_cdrive.bat
+  setup_neura_sample.bat
+  smartsummarize_website.zip
+  speech app
+  speedmode.bat
+  src.zip
+  step2_dashboard.zip
+  step3_journal_menu_bg.zip
+  stub_report.md
+  synaptic_growth_mode.zip
+  test/
+    activity_posture_test.dart
+    biometric_feedback_test.dart
+    clinical_module_test.dart
+    csv_export_service_test.dart
+    pdf_report_service_test.dart
+    usage_repository_test.dart
+    widget_test.dart
+  test (2).zip
+  test.zip
+  tools.zip
+  unity_webgl_embed.html
+  unity_webgl_template.zip
+  voice_controlled_ritual_launcher.zip
+  wearables_modules_v2.zip
+  wearables_modules_v3.zip
+  your_neura_calm.riv
+  your_neura_confident.riv
+  your_neura_curious.riv
+  your_neura_empathetic.riv
+  your_neura_encouraging.riv
+  your_neura_excited.riv
+  your_neura_idle.riv
+  your_neura_listening.riv
+  your_neura_motivated.riv
+  your_neura_reflective.riv
+  your_neura_speaking.riv
+  your_neura_thinking.riv
+  your_neura_welcome.riv
+
+Key Files Found:
+----------------
+pubspec:
+  - /mnt/data/neura_workspace/src/Neura-Companion-ver1.0.0-56162d14-main/pubspec.yaml
+android_build_gradle:
+  (none)
+android_build_gradle_kts:
+  (none)
+project_build_gradle:
+  (none)
+project_build_gradle_kts:
+  - /mnt/data/neura_workspace/src/Neura-Companion-ver1.0.0-56162d14-main/build.gradle.kts
+gradle_properties:
+  (none)
+settings_gradle:
+  (none)
+settings_gradle_kts:
+  - /mnt/data/neura_workspace/src/Neura-Companion-ver1.0.0-56162d14-main/settings.gradle.kts
+
+Android/Gradle Versions Observed:
+----------------------------------
+agp: []
+kotlin: []
+compileSdk: ['34']
+minSdk: ['24']
+targetSdk: ['34']
+
+Pubspec Overview:
+-----------------
+SDK constraint: >=2.17.0 <4.0.0
+Dependencies (preview):
+  - sdk: ">=2.17.0 <4.0.0"
+  - flutter: sdk: flutter
+  - shared_preferences: ^2.2.0
+  - path_provider: ^2.1.2
+  - share_plus: ^7.0.0
+  - speech_to_text: ^6.3.0
+  - flutter_tts: ^3.8.5
+  - lottie: ^2.6.0
+  - local_auth: ^2.1.6
+  - in_app_purchase: ^3.1.11
+  - logger: ^2.0.2+1
+  - firebase_auth: ^4.15.3
+  - google_sign_in: ^6.1.5
+  - sign_in_with_apple: ^5.0.0
+  - image_picker: ^1.0.4
+  - firebase_storage: ^11.6.0
+  - http: ^1.1.0
+  - flutter_secure_storage: ^9.0.0
+  - rive: ^0.12.4
+  - flutter_test: sdk: flutter
+  - flutter_lints: ^2.0.0
+  - mockito: ^5.4.2
+  - build_runner: ^2.4.6

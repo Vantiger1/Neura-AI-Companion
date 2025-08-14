@@ -1,0 +1,27 @@
+{
+  "generated": "2025-08-12T14:10:18",
+  "files_changed": 21,
+  "paths": [
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/diagnostics_screen.dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/dream_replay_launcher_widget.dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/error_logger.dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/feedback_form.dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/heart_rate_dashboard.dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/main.dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_access_gate.dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_animator.dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_avatar.dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_dream_calendar_navigator.dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_dream_show_player.dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_idle_controller.dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel (1).dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel.dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel_animated.dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_manager.dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_reflection_saver (1) - Copy.dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_reflection_saver (1).dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_reflection_saver - Copy.dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_reflection_saver.dart",
+    "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_voice_engine.dart"
+  ]
+}

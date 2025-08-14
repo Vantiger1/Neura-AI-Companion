@@ -1,0 +1,7 @@
+{
+  "injected_script": "/mnt/data/neura_workspace/src/scripts/tools/fix_and_optimize.ps1",
+  "patched_gradle_kts_files": [],
+  "gradle_version_issues": [],
+  "slim_zip": "/mnt/data/neura_workspace/artifacts/neura_companion_slim_source.zip",
+  "readme_ci": "/mnt/data/neura_workspace/src/README-CI.md"
+}

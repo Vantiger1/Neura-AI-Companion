@@ -1,0 +1,129 @@
+{
+  "key_files": {
+    "pubspec": [
+      "/mnt/data/neura_workspace/src/Neura-Companion-ver1.0.0-56162d14-main/pubspec.yaml"
+    ],
+    "android_build_gradle": [],
+    "android_build_gradle_kts": [],
+    "project_build_gradle": [],
+    "project_build_gradle_kts": [
+      "/mnt/data/neura_workspace/src/Neura-Companion-ver1.0.0-56162d14-main/build.gradle.kts"
+    ],
+    "gradle_properties": [],
+    "settings_gradle": [],
+    "settings_gradle_kts": [
+      "/mnt/data/neura_workspace/src/Neura-Companion-ver1.0.0-56162d14-main/settings.gradle.kts"
+    ]
+  },
+  "versions": {
+    "agp": [],
+    "kotlin": [],
+    "compileSdk": [
+      "34"
+    ],
+    "minSdk": [
+      "24"
+    ],
+    "targetSdk": [
+      "34"
+    ]
+  },
+  "findings": [],
+  "pubspec": {
+    "sdk_constraint": ">=2.17.0 <4.0.0",
+    "dependencies_sample": [
+      [
+        "sdk",
+        "\">=2.17.0 <4.0.0\""
+      ],
+      [
+        "flutter",
+        "sdk: flutter"
+      ],
+      [
+        "shared_preferences",
+        "^2.2.0"
+      ],
+      [
+        "path_provider",
+        "^2.1.2"
+      ],
+      [
+        "share_plus",
+        "^7.0.0"
+      ],
+      [
+        "speech_to_text",
+        "^6.3.0"
+      ],
+      [
+        "flutter_tts",
+        "^3.8.5"
+      ],
+      [
+        "lottie",
+        "^2.6.0"
+      ],
+      [
+        "local_auth",
+        "^2.1.6"
+      ],
+      [
+        "in_app_purchase",
+        "^3.1.11"
+      ],
+      [
+        "logger",
+        "^2.0.2+1"
+      ],
+      [
+        "firebase_auth",
+        "^4.15.3"
+      ],
+      [
+        "google_sign_in",
+        "^6.1.5"
+      ],
+      [
+        "sign_in_with_apple",
+        "^5.0.0"
+      ],
+      [
+        "image_picker",
+        "^1.0.4"
+      ],
+      [
+        "firebase_storage",
+        "^11.6.0"
+      ],
+      [
+        "http",
+        "^1.1.0"
+      ],
+      [
+        "flutter_secure_storage",
+        "^9.0.0"
+      ],
+      [
+        "rive",
+        "^0.12.4"
+      ],
+      [
+        "flutter_test",
+        "sdk: flutter"
+      ],
+      [
+        "flutter_lints",
+        "^2.0.0"
+      ],
+      [
+        "mockito",
+        "^5.4.2"
+      ],
+      [
+        "build_runner",
+        "^2.4.6"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Neura — Bespoke Render Preview</title>
+  <style>
+    :root {
+      --bg: #0b0f1a;
+      --fg: #e8ebf2;
+      --accent: #8ab4ff;
+      --glow: rgba(138,180,255,0.35);
+      --skin-1: #f3d8cc;
+      --skin-2: #d9b4a5;
+      --metal: #9aa6bd;
+      --line: #7dd3fc;
+    }
+    html, body {
+      margin:0; padding:0; height:100%;
+      background: radial-gradient(80% 120% at 50% 0%, #0b0f1a 30%, #070a12 100%);
+      color: var(--fg);
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+    }
+    header { padding: 18px 22px; display:flex; align-items:center; gap:12px; }
+    header h1 { font-size: 20px; margin:0; opacity:.9; }
+    main { display:grid; place-items:center; padding: 10px; }
+    .frame {
+      position: relative;
+      width: min(88vw, 640px);
+      aspect-ratio: 1/1;
+      border-radius: 24px;
+      background: linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.01));
+      border: 1px solid rgba(255,255,255,.08);
+      box-shadow: 0 30px 80px rgba(0,0,0,.45), 0 0 42px var(--glow);
+      overflow: hidden;
+    }
+    svg { width: 100%; height: 100%; display: block; }
+    .caption { text-align:center; opacity:.8; margin-top:14px; font-size:14px; }
+    /* Animations */
+    @keyframes blink { 0%, 92%, 100% { transform: scaleY(1); } 95% { transform: scaleY(0.1);} }
+    @keyframes float { 0% { transform: translateY(0px);} 50% { transform: translateY(-3px);} 100%{ transform: translateY(0px);} }
+    .eyeLid { transform-origin: center; animation: blink 6s infinite; }
+    .floaty { animation: float 5s ease-in-out infinite; }
+  </style>
+</head>
+<body>
+  <header>
+    <svg width="26" height="26" viewBox="0 0 48 48" fill="none">
+      <defs>
+        <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+          <stop stop-color="#8ab4ff"/><stop offset="1" stop-color="#7dd3fc"/>
+        </linearGradient>
+      </defs>
+      <circle cx="24" cy="24" r="22" stroke="url(#g1)" stroke-width="2" fill="none"/>
+      <path d="M14 30 C18 20, 30 20, 34 30" stroke="url(#g1)" stroke-width="2" fill="none"/>
+      <circle cx="19" cy="22" r="2" fill="url(#g1)"/><circle cx="29" cy="22" r="2" fill="url(#g1)"/>
+    </svg>
+    <h1>Neura — Bespoke Render Preview</h1>
+  </header>
+  <main>
+    <div class="frame">
+      <svg viewBox="0 0 800 800" role="img" aria-label="Neura render preview">
+        <defs>
+          <radialGradient id="bgGlow" cx="50%" cy="20%" r="70%">
+            <stop offset="0%" stop-color="#1a2440"/>
+            <stop offset="100%" stop-color="#0b0f1a"/>
+          </radialGradient>
+          <linearGradient id="skin" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#f1d6ca"/>
+            <stop offset="100%" stop-color="#d6b1a3"/>
+          </linearGradient>
+          <linearGradient id="metalGrad" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#b8c2d6"/>
+            <stop offset="100%" stop-color="#8a95ac"/>
+          </linearGradient>
+          <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="1.2"/>
+          </filter>
+          <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+            <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+          </filter>
+        </defs>
+
+        <!-- Background glow -->
+        <rect x="0" y="0" width="800" height="800" fill="url(#bgGlow)"/>
+
+        <!-- Halo -->
+        <circle cx="400" cy="330" r="260" fill="none" stroke="#8ab4ff" stroke-opacity="0.12" stroke-width="40"/>
+        <circle cx="400" cy="330" r="230" fill="none" stroke="#7dd3fc" stroke-opacity="0.08" stroke-width="22"/>
+
+        <!-- Shoulders / collar -->
+        <path d="M160,650 C260,540 540,540 640,650 L640,760 L160,760 Z"
+          fill="url(#metalGrad)" opacity="0.75"/>
+
+        <!-- Neck -->
+        <rect x="360" y="470" width="80" height="80" rx="16" fill="url(#metalGrad)" opacity="0.9"/>
+        <rect x="360" y="470" width="80" height="80" rx="16" fill="none" stroke="#9dd1ff" stroke-opacity="0.25"/>
+
+        <!-- Face silhouette -->
+        <path d="M400,160
+                 C 320,170 270,230 270,320
+                 C 270,420 330,500 400,500
+                 C 470,500 530,420 530,320
+                 C 530,230 480,170 400,160 Z"
+              fill="url(#skin)" filter="url(#soft)"/>
+
+        <!-- Cheek soft shading -->
+        <ellipse cx="330" cy="340" rx="46" ry="24" fill="#e8bdb0" opacity="0.25" filter="url(#soft)"/>
+        <ellipse cx="470" cy="340" rx="46" ry="24" fill="#e8bdb0" opacity="0.25" filter="url(#soft)"/>
+
+        <!-- Jawline highlight -->
+        <path d="M300,420 C360,520 440,520 500,420" stroke="#fff" stroke-opacity="0.06" stroke-width="8" filter="url(#soft)"/>
+
+        <!-- Eyes group -->
+        <g class="floaty">
+          <!-- Left eye socket -->
+          <ellipse cx="350" cy="310" rx="55" ry="34" fill="#0f1424" opacity="0.85"/>
+          <ellipse cx="350" cy="310" rx="55" ry="34" fill="none" stroke="#8ab4ff" stroke-opacity="0.18"/>
+          <!-- Right eye socket -->
+          <ellipse cx="450" cy="310" rx="55" ry="34" fill="#0f1424" opacity="0.85"/>
+          <ellipse cx="450" cy="310" rx="55" ry="34" fill="none" stroke="#8ab4ff" stroke-opacity="0.18"/>
+
+          <!-- Irises -->
+          <circle cx="350" cy="314" r="16" fill="#7dd3fc" filter="url(#glow)"/>
+          <circle cx="450" cy="314" r="16" fill="#7dd3fc" filter="url(#glow)"/>
+          <!-- Pupils -->
+          <circle cx="350" cy="314" r="7" fill="#0a0d18"/>
+          <circle cx="450" cy="314" r="7" fill="#0a0d18"/>
+          <!-- Catchlights -->
+          <circle cx="343" cy="308" r="3" fill="#fff" opacity="0.9"/>
+          <circle cx="443" cy="308" r="3" fill="#fff" opacity="0.9"/>
+
+          <!-- Lids (blink) -->
+          <ellipse class="eyeLid" cx="350" cy="310" rx="55" ry="34" fill="#0b0f1a" opacity="0.0"/>
+          <ellipse class="eyeLid" cx="450" cy="310" rx="55" ry="34" fill="#0b0f1a" opacity="0.0"/>
+        </g>
+
+        <!-- Nose hint -->
+        <path d="M400,300 C395,330 395,360 400,370" stroke="#fff" stroke-opacity="0.1" stroke-width="3" filter="url(#soft)"/>
+
+        <!-- Mouth (subtle smile) -->
+        <path d="M360,400 C380,420 420,420 440,400" stroke="#e8bdb0" stroke-width="4" stroke-linecap="round" fill="none"/>
+
+        <!-- Synthetic face lines -->
+        <path d="M280,295 C300,260 320,250 340,255" stroke="#7dd3fc" stroke-opacity="0.35" stroke-width="2"/>
+        <path d="M520,295 C500,260 480,250 460,255" stroke="#7dd3fc" stroke-opacity="0.35" stroke-width="2"/>
+        <path d="M400,210 C380,230 420,230 400,210" stroke="#8ab4ff" stroke-opacity="0.3" stroke-width="2"/>
+
+        <!-- Collar glow -->
+        <ellipse cx="400" cy="560" rx="90" ry="20" fill="#7dd3fc" opacity="0.15" filter="url(#glow)"/>
+      </svg>
+    </div>
+    <div class="caption">Bespoke SVG render — photoreal vibe with soft shading, subtle glows, and eye blinks.</div>
+  </main>
+</body>
+</html>

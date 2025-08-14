@@ -1,0 +1,345 @@
+{
+  "generated": "2025-08-12T14:10:18",
+  "candidates": [
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/community_dashboard.dart",
+      "line": 7,
+      "snippet": "Text('Community Dashboard'));"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/diagnostics_screen.dart",
+      "line": 42,
+      "snippet": "EdgeInsets.all(8), child: Text(_logs))]),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/diagnostics_screen.dart",
+      "line": 41,
+      "snippet": "Text('Events'), subtitle: Text(_events.map((e) => e['name']).join(', '))),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/diagnostics_screen.dart",
+      "line": 42,
+      "snippet": "Text('Error Logs'), children: [Padding(padding: EdgeInsets.all(8), child: Text(_logs))]),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/dream_replay_launcher_widget.dart",
+      "line": 15,
+      "snippet": "Text(\"Play Dream Replay\"),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/dream_replay_launcher_widget.dart",
+      "line": 14,
+      "snippet": "Icon(Icons.auto_awesome_motion_rounded),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/feedback_form.dart",
+      "line": 17,
+      "snippet": "EdgeInsets.all(16),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/feedback_form.dart",
+      "line": 25,
+      "snippet": "Text('Thanks for your feedback!')));"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/feedback_form.dart",
+      "line": 26,
+      "snippet": "Text('Submit')),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/heart_rate_dashboard.dart",
+      "line": 9,
+      "snippet": "Text('Heart Rate Dashboard')),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/main.dart",
+      "line": 41,
+      "snippet": "SizedBox(height: 20),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/main.dart",
+      "line": 36,
+      "snippet": "Text(\"Neura Companion\")),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_access_gate.dart",
+      "line": 38,
+      "snippet": "SizedBox(height: 20),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_access_gate.dart",
+      "line": 46,
+      "snippet": "SizedBox(height: 10),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_access_gate.dart",
+      "line": 48,
+      "snippet": "SizedBox(height: 20),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_access_gate.dart",
+      "line": 58,
+      "snippet": "SizedBox(height: 20),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_access_gate.dart",
+      "line": 60,
+      "snippet": "SizedBox(height: 10),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_access_gate.dart",
+      "line": 30,
+      "snippet": "Text(\"Neura Companion\")),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_access_gate.dart",
+      "line": 39,
+      "snippet": "Text(\"Enjoy your smart companion experience.\"),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_access_gate.dart",
+      "line": 47,
+      "snippet": "Text(\"Neura is your personal AI who evolves with your emotions, helps you grow, and adds sparkle to "
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_access_gate.dart",
+      "line": 56,
+      "snippet": "Text(\"Upgrade Now\"),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_access_gate.dart",
+      "line": 59,
+      "snippet": "Text(\"Preview:\"),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_avatar.dart",
+      "line": 63,
+      "snippet": "Icon(Icons.face_retouching_natural,"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_dream_calendar_navigator.dart",
+      "line": 46,
+      "snippet": "Text('Dream Calendar')),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_dream_show_player.dart",
+      "line": 61,
+      "snippet": "SizedBox(height: 20),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_dream_show_player.dart",
+      "line": 88,
+      "snippet": "Text(\"Exit\"),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_dream_show_player.dart",
+      "line": 60,
+      "snippet": "Icon(Icons.nights_stay_rounded, size: 80, color: Colors.white),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_dream_show_player.dart",
+      "line": 87,
+      "snippet": "Icon(Icons.close),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_face_animator.dart",
+      "line": 80,
+      "snippet": "Icon("
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel (1).dart",
+      "line": 55,
+      "snippet": "SizedBox(height: 20),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel (1).dart",
+      "line": 62,
+      "snippet": "SizedBox(height: 20),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel (1).dart",
+      "line": 78,
+      "snippet": "SizedBox(height: 10),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel (1).dart",
+      "line": 48,
+      "snippet": "EdgeInsets.all(20),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel (1).dart",
+      "line": 50,
+      "snippet": "EdgeInsets.all(20),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel (1).dart",
+      "line": 59,
+      "snippet": "Text(\"Tell Me a Joke\"),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel (1).dart",
+      "line": 63,
+      "snippet": "Text(\"Rate this joke:\"),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel (1).dart",
+      "line": 82,
+      "snippet": "Text(\"Play Favorite\"),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel (1).dart",
+      "line": 58,
+      "snippet": "Icon(Icons.mood),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel (1).dart",
+      "line": 69,
+      "snippet": "Icon(Icons.favorite, color: Colors.pink),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel (1).dart",
+      "line": 73,
+      "snippet": "Icon(Icons.thumb_down, color: Colors.grey),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel (1).dart",
+      "line": 81,
+      "snippet": "Icon(Icons.star),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel.dart",
+      "line": 55,
+      "snippet": "SizedBox(height: 20),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel.dart",
+      "line": 62,
+      "snippet": "SizedBox(height: 20),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel.dart",
+      "line": 78,
+      "snippet": "SizedBox(height: 10),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel.dart",
+      "line": 48,
+      "snippet": "EdgeInsets.all(20),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel.dart",
+      "line": 50,
+      "snippet": "EdgeInsets.all(20),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel.dart",
+      "line": 59,
+      "snippet": "Text(\"Tell Me a Joke\"),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel.dart",
+      "line": 63,
+      "snippet": "Text(\"Rate this joke:\"),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel.dart",
+      "line": 82,
+      "snippet": "Text(\"Play Favorite\"),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel.dart",
+      "line": 58,
+      "snippet": "Icon(Icons.mood),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel.dart",
+      "line": 69,
+      "snippet": "Icon(Icons.favorite, color: Colors.pink),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel.dart",
+      "line": 73,
+      "snippet": "Icon(Icons.thumb_down, color: Colors.grey),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel.dart",
+      "line": 81,
+      "snippet": "Icon(Icons.star),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel_animated.dart",
+      "line": 76,
+      "snippet": "SizedBox(height: 20),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel_animated.dart",
+      "line": 78,
+      "snippet": "SizedBox(height: 10),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel_animated.dart",
+      "line": 85,
+      "snippet": "SizedBox(height: 10),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel_animated.dart",
+      "line": 101,
+      "snippet": "SizedBox(height: 10),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel_animated.dart",
+      "line": 69,
+      "snippet": "EdgeInsets.all(20),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel_animated.dart",
+      "line": 71,
+      "snippet": "EdgeInsets.all(20),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel_animated.dart",
+      "line": 82,
+      "snippet": "Text(\"Tell Me a Joke\"),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel_animated.dart",
+      "line": 86,
+      "snippet": "Text(\"Rate this joke:\"),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel_animated.dart",
+      "line": 105,
+      "snippet": "Text(\"Play Favorite\"),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel_animated.dart",
+      "line": 81,
+      "snippet": "Icon(Icons.mood),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel_animated.dart",
+      "line": 92,
+      "snippet": "Icon(Icons.favorite, color: Colors.pink),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel_animated.dart",
+      "line": 96,
+      "snippet": "Icon(Icons.thumb_down, color: Colors.grey),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_joke_panel_animated.dart",
+      "line": 104,
+      "snippet": "Icon(Icons.star),"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_widget.dart",
+      "line": 62,
+      "snippet": "SizedBox(width: widget.width, height: widget.height)"
+    },
+    {
+      "file": "/mnt/data/neura_audit/src/Neura-Companion-ver1.0.0-56162d14-main/neura_widget.dart",
+      "line": 63,
+      "snippet": "SizedBox("
+    }
+  ]
+}
