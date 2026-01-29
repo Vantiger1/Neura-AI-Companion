@@ -1,2 +1,2 @@
-1\]\ nCompanion
+# Neura Companion
 Launch-ready emotional AI app.
